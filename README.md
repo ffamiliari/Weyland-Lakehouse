@@ -28,6 +28,22 @@ This project was built to learn and demonstrate:
 
 ---
 
+## Why This Project
+
+The objective of Weyland Lakehouse is to understand how modern data platforms connect customer usage patterns with business analytics and revenue expansion.
+
+The project focuses on the intersection of:
+
+- data engineering
+- analytics engineering
+- consumption-based SaaS models
+- platform adoption analytics
+- customer health analytics
+
+The goal is not only to build technical pipelines, but also to understand how modern Lakehouse architectures support business decision-making.
+
+---
+
 ## Business Context
 
 Modern SaaS and AI platforms increasingly rely on usage-based pricing models.
@@ -71,9 +87,7 @@ within a unified platform.
 
 The project follows the Medallion Architecture:
 
-```text
 Bronze → Silver → Gold
-```
 
 ### Bronze Layer
 Stores raw ingested data with minimal transformation.
@@ -89,15 +103,24 @@ Produces business-ready analytics tables optimized for reporting and SQL analysi
 ## Planned Data Flow
 
 ```text
-Raw SaaS Data
-    ↓
-Bronze Layer
-    ↓
-Silver Layer
-    ↓
-Gold Layer
-    ↓
-Business Insights & Analytics
+                Raw SaaS Data
+ ┌───────────────────────────────────────┐
+ │ customers                             │
+ │ subscriptions                         │
+ │ usage_events                          │
+ │ compute_consumption                   │
+ └───────────────────────────────────────┘
+                    ↓
+              Bronze Layer
+         Raw ingestion with Delta
+                    ↓
+              Silver Layer
+      Cleaned and standardized data
+                    ↓
+               Gold Layer
+     Business-ready analytics tables
+                    ↓
+        SQL Analytics & Insights
 ```
 
 ---
@@ -127,6 +150,23 @@ The project will generate analytics tables for:
 
 ---
 
+## Simulated Business KPIs
+
+The platform will simulate several business-oriented SaaS metrics:
+
+| KPI | Description |
+|---|---|
+| Adoption Score | Measures overall platform engagement |
+| Compute Growth Rate | Tracks infrastructure consumption growth |
+| Expansion Revenue | Estimates revenue increase driven by usage |
+| Customer Health Score | Aggregates platform activity indicators |
+| Under-Utilization Risk | Detects low platform usage patterns |
+| Churn Risk Score | Identifies potentially declining customers |
+
+These metrics are inspired by real-world platform analytics used by modern SaaS and AI companies.
+
+---
+
 ## Technologies
 
 - Databricks
@@ -140,7 +180,6 @@ The project will generate analytics tables for:
 
 ## Project Structure
 
-```text
 weyland-lakehouse/
 │
 ├── data/
@@ -161,7 +200,6 @@ weyland-lakehouse/
 │
 ├── README.md
 └── .gitignore
-```
 
 ---
 
@@ -186,3 +224,20 @@ Planned future additions include:
 - advanced customer health scoring
 - predictive churn modeling
 - AI-driven analytics
+
+---
+
+## Long-Term Vision
+
+Future iterations of the project may include:
+
+- streaming ingestion
+- real-time analytics
+- predictive churn modeling
+- AI-driven customer health scoring
+- Databricks dashboards
+- dbt transformations
+- orchestration workflows
+- CI/CD integration
+
+The objective is to progressively evolve Weyland Lakehouse toward a realistic modern data platform architecture.
