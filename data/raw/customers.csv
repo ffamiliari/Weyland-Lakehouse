@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,region,industry,signup_date,employee_count,annual_revenue_m,platform_maturity,growth_profile
+CUST-0001,Campbell-Buck,Mid-Market,EMEA,Manufacturing,2024-01-19,314,100.3,Low,Declining
+CUST-0002,"Perez, Thompson and Wells",Mid-Market,North America,AI,2023-10-30,496,159.7,Medium,Declining
+CUST-0003,"Robinson, Zhang and Guerra",Strategic,APJ,Retail,2024-11-07,20894,3180.1,Low,High Growth
+CUST-0004,"Williams, Foster and Fischer",SMB,EMEA,Media,2024-01-19,28,17.4,Low,Stable
+CUST-0005,"Carr, Winters and French",Mid-Market,APJ,Healthcare,2025-05-25,992,121.1,Low,Declining
+CUST-0006,Gonzales-Smith,SMB,North America,Media,2025-06-19,77,5.9,High,High Growth
+CUST-0007,Kennedy and Sons,Strategic,North America,Financial Services,2023-12-27,90486,3856.2,Low,Stable
+CUST-0008,"Montgomery, Miller and Haynes",Enterprise,EMEA,Manufacturing,2025-06-17,6443,437.0,Medium,Stable
+CUST-0009,Galloway Group,SMB,EMEA,Retail,2025-05-04,28,9.1,Low,Declining
+CUST-0010,Walker-Griffin,Enterprise,North America,AI,2025-04-23,15336,1665.4,High,High Growth
+CUST-0011,Lucas LLC,SMB,North America,AI,2025-12-15,64,18.7,Low,Stable
+CUST-0012,Garcia and Sons,Mid-Market,North America,Retail,2023-07-10,1094,143.8,Medium,Stable
+CUST-0013,"Frank, Alexander and Sawyer",Strategic,North America,Retail,2024-03-23,86592,4104.7,High,Stable
+CUST-0014,Watkins PLC,SMB,EMEA,Healthcare,2025-06-07,85,12.5,High,Stable
+CUST-0015,"Kelly, Hamilton and Thompson",Mid-Market,APJ,Technology,2023-05-22,1122,73.9,Medium,Declining
+CUST-0016,Bailey-Buckley,Enterprise,North America,Technology,2024-10-28,13320,1044.1,High,High Growth
+CUST-0017,Flores Inc,Strategic,EMEA,AI,2026-04-29,74729,2155.2,Medium,High Growth
+CUST-0018,"Powers, Chen and Smith",SMB,North America,Healthcare,2025-10-01,65,17.9,Medium,Stable
+CUST-0019,"Curtis, Stanley and Gonzales",SMB,LATAM,Healthcare,2024-07-31,154,7.6,Low,Stable
+CUST-0020,"Jones, Alvarez and Kennedy",SMB,North America,Technology,2025-12-05,140,9.5,High,High Growth
+CUST-0021,Gibson-Tyler,Strategic,North America,Healthcare,2024-01-27,44912,6874.3,Low,Stable
+CUST-0022,"Garcia, Randolph and Lee",SMB,North America,AI,2025-03-20,93,5.1,Medium,Stable
+CUST-0023,"Brown, Rogers and Anderson",Strategic,LATAM,Manufacturing,2024-10-18,66939,4317.9,Medium,Stable
+CUST-0024,Hernandez-Mathis,SMB,North America,Media,2025-01-26,153,19.5,Low,High Growth
+CUST-0025,Robinson-Richardson,Mid-Market,EMEA,Media,2024-12-20,1517,134.2,High,Declining
+CUST-0026,Hoover-Solis,Enterprise,North America,AI,2024-02-18,10556,881.5,Low,Stable
+CUST-0027,Fitzgerald Ltd,Mid-Market,APJ,Manufacturing,2024-11-17,1326,38.1,High,Stable
+CUST-0028,Powell LLC,SMB,EMEA,Manufacturing,2023-10-13,34,4.2,Low,High Growth
+CUST-0029,"Shaffer, Hooper and Burke",Mid-Market,LATAM,Media,2024-06-12,985,20.9,Medium,Stable
+CUST-0030,Benson PLC,Mid-Market,LATAM,Financial Services,2023-09-07,1190,145.9,High,Stable
+CUST-0031,Ewing PLC,Strategic,EMEA,Healthcare,2024-05-15,88255,2976.7,Medium,High Growth
+CUST-0032,"Farmer, Mcfarland and Glover",Strategic,North America,AI,2023-08-11,59669,4321.0,High,High Growth
+CUST-0033,"Bell, Henry and Gould",Mid-Market,APJ,Healthcare,2024-05-02,1061,99.6,High,Stable
+CUST-0034,"Koch, Flores and Howard",Enterprise,LATAM,Healthcare,2024-04-17,14131,291.3,High,Declining
+CUST-0035,Hill PLC,Enterprise,APJ,Technology,2023-08-10,6042,1298.9,Medium,Stable
+CUST-0036,Bishop Inc,Strategic,APJ,Financial Services,2025-11-27,83692,3740.8,Low,High Growth
+CUST-0037,Cochran-Carrillo,Strategic,APJ,Media,2025-03-02,59324,8344.8,Low,High Growth
+CUST-0038,"Johnson, Fletcher and Valdez",Strategic,North America,Media,2026-01-09,96781,4100.6,Low,Declining
+CUST-0039,White-Miller,Mid-Market,North America,Manufacturing,2023-08-06,988,150.6,Medium,High Growth
+CUST-0040,Pearson PLC,SMB,APJ,Retail,2025-06-29,54,18.0,Medium,Declining
+CUST-0041,"Simon, Hunter and Cooper",SMB,North America,Technology,2026-04-11,32,4.6,High,High Growth
+CUST-0042,"Decker, Figueroa and Obrien",Mid-Market,EMEA,Retail,2025-11-17,1876,197.4,Medium,High Growth
+CUST-0043,Ramirez-Gardner,Enterprise,LATAM,Technology,2025-12-07,8162,701.5,Low,High Growth
+CUST-0044,Yu-Young,Enterprise,EMEA,AI,2024-10-06,15702,695.4,Medium,Stable
+CUST-0045,Rogers-Gibson,Enterprise,EMEA,Technology,2024-05-05,15366,459.5,Low,Declining
+CUST-0046,Harrison-Franklin,SMB,APJ,Media,2023-10-22,52,15.5,Low,Stable
+CUST-0047,"Lucas, Cruz and Flores",SMB,LATAM,Manufacturing,2023-10-31,44,10.6,High,Stable
+CUST-0048,"Phillips, Brown and Nguyen",Strategic,LATAM,Manufacturing,2026-02-21,54601,6320.1,Low,High Growth
+CUST-0049,Gill Ltd,Mid-Market,North America,Technology,2024-09-30,1494,128.3,High,Stable
+CUST-0050,Neal and Sons,SMB,EMEA,Media,2023-11-02,192,14.0,High,Declining
+CUST-0051,Mercado-Lewis,Mid-Market,North America,Healthcare,2023-10-20,1101,31.8,Medium,Declining
+CUST-0052,Henderson-Francis,Enterprise,APJ,Manufacturing,2024-03-04,2083,1528.9,Medium,Stable
+CUST-0053,Moore-Weber,Mid-Market,North America,Media,2023-09-02,1797,55.8,Low,Stable
+CUST-0054,Smith Ltd,SMB,APJ,Media,2026-02-17,108,16.0,Medium,Declining
+CUST-0055,"Murray, Richard and Dalton",SMB,APJ,AI,2023-06-17,120,10.4,High,High Growth
+CUST-0056,"Flynn, Soto and Velasquez",SMB,North America,Healthcare,2024-08-27,160,9.6,High,Declining
+CUST-0057,"Johnson, Potter and Ellis",Mid-Market,North America,AI,2023-05-26,206,187.4,High,High Growth
+CUST-0058,Walton-Mejia,SMB,LATAM,Healthcare,2024-11-02,100,1.1,High,Declining
+CUST-0059,"Williams, Madden and Craig",Strategic,LATAM,Financial Services,2025-08-16,22248,6984.6,Medium,High Growth
+CUST-0060,Trevino Group,Mid-Market,EMEA,Healthcare,2025-01-24,1275,57.2,High,Declining
+CUST-0061,Simpson and Sons,Mid-Market,North America,Retail,2025-11-17,1689,43.0,Low,Declining
+CUST-0062,James Group,SMB,EMEA,Manufacturing,2025-08-09,160,9.3,Low,Stable
+CUST-0063,"Underwood, Vance and Romero",Strategic,North America,Technology,2025-03-09,80161,3910.6,Low,High Growth
+CUST-0064,Perry-Sullivan,Enterprise,LATAM,Media,2026-02-17,4931,737.9,High,Stable
+CUST-0065,Nixon Inc,Mid-Market,EMEA,Manufacturing,2024-12-12,466,66.5,Low,High Growth
+CUST-0066,"Lane, Mclaughlin and Mills",SMB,APJ,Financial Services,2025-01-30,101,19.2,Medium,High Growth
+CUST-0067,"Brown, Mahoney and Olson",SMB,North America,Manufacturing,2023-07-22,152,14.5,Low,Declining
+CUST-0068,Knight-Harrison,Mid-Market,APJ,Retail,2023-12-17,1439,25.8,High,High Growth
+CUST-0069,Flynn-Warren,SMB,APJ,Media,2025-12-24,193,3.3,High,Declining
+CUST-0070,Smith LLC,Strategic,North America,Financial Services,2024-08-28,60945,5097.5,High,Stable
+CUST-0071,Williams-Anderson,Enterprise,EMEA,Media,2024-04-10,9896,1135.0,High,Declining
+CUST-0072,Mccoy-Love,SMB,EMEA,Healthcare,2026-01-03,79,12.7,Medium,High Growth
+CUST-0073,"Frederick, Murphy and Castillo",Enterprise,North America,Financial Services,2023-11-08,14670,292.8,Medium,Declining
+CUST-0074,Michael Group,Enterprise,APJ,Healthcare,2025-05-24,4091,657.1,Low,Declining
+CUST-0075,"Taylor, Johnson and Stone",SMB,EMEA,Healthcare,2025-07-19,110,13.6,High,Declining
+CUST-0076,"Jones, Carr and Shelton",SMB,APJ,Media,2025-07-13,20,13.8,High,Stable
+CUST-0077,"Anderson, Parrish and Simpson",Strategic,North America,Retail,2025-03-25,28240,4178.7,Medium,Declining
+CUST-0078,"Wallace, Leon and Johnson",Mid-Market,EMEA,AI,2025-04-17,746,55.0,High,Stable
+CUST-0079,"Nash, Harrington and Harrell",Strategic,LATAM,Media,2025-07-25,72786,4604.5,Low,Declining
+CUST-0080,Dodson Group,Strategic,APJ,Retail,2024-04-16,31565,2593.4,Medium,High Growth
+CUST-0081,Davis and Sons,Enterprise,North America,Manufacturing,2025-08-03,9314,1336.2,Medium,Declining
+CUST-0082,Fowler-Zhang,SMB,EMEA,Retail,2023-06-26,176,17.4,Low,High Growth
+CUST-0083,Campbell-Wilson,Enterprise,LATAM,Manufacturing,2024-11-03,14484,1696.9,High,High Growth
+CUST-0084,Anderson-Lopez,Strategic,EMEA,Technology,2025-01-15,48832,8061.0,Low,High Growth
+CUST-0085,Daniel and Sons,Enterprise,EMEA,Healthcare,2025-10-30,19430,1778.1,Low,Declining
+CUST-0086,Terry LLC,Enterprise,EMEA,Healthcare,2023-12-09,3363,1181.3,Medium,Declining
+CUST-0087,Harrison-Howell,Strategic,North America,Media,2023-07-08,31350,4325.8,Low,Declining
+CUST-0088,Diaz-Lewis,SMB,North America,Manufacturing,2026-02-04,146,4.5,Low,Stable
+CUST-0089,"Mills, Goodwin and Johnson",Enterprise,APJ,Media,2026-01-10,12857,746.4,High,High Growth
+CUST-0090,Avila-Gonzalez,Strategic,LATAM,AI,2026-04-11,72193,3539.9,Low,Stable
+CUST-0091,Ali-Young,Mid-Market,EMEA,Healthcare,2025-12-05,355,23.3,Medium,Stable
+CUST-0092,Campbell-Holmes,Strategic,LATAM,Media,2025-01-15,35875,3266.3,Medium,High Growth
+CUST-0093,"Mendez, Alvarado and Mills",SMB,APJ,Technology,2025-04-21,181,1.7,Medium,Declining
+CUST-0094,"Fields, Andrews and Hill",Strategic,LATAM,Technology,2023-06-26,77743,8083.1,High,Stable
+CUST-0095,Ramos-Johnson,Enterprise,EMEA,Retail,2024-02-04,17788,1767.7,Low,Declining
+CUST-0096,Perez LLC,Enterprise,EMEA,AI,2024-05-30,10663,1117.4,High,Stable
+CUST-0097,"Thomas, Jones and Hunter",Enterprise,North America,Media,2024-07-31,8053,480.5,Medium,High Growth
+CUST-0098,"Smith, Jensen and Bowman",SMB,APJ,AI,2024-04-07,72,16.8,Medium,Declining
+CUST-0099,Oneal LLC,Strategic,North America,Healthcare,2024-07-03,52995,8803.9,Low,Declining
+CUST-0100,Hardin-Ponce,SMB,EMEA,AI,2024-08-15,150,4.6,Low,Declining
