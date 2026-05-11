@@ -103,6 +103,7 @@ Produces business-ready analytics tables optimized for reporting and SQL analysi
 ## Planned Data Flow
 
 ```text
+
                 Raw SaaS Data
  ┌───────────────────────────────────────┐
  │ customers                             │
@@ -121,6 +122,7 @@ Produces business-ready analytics tables optimized for reporting and SQL analysi
      Business-ready analytics tables
                     ↓
         SQL Analytics & Insights
+
 ```
 
 ---
@@ -129,6 +131,7 @@ Produces business-ready analytics tables optimized for reporting and SQL analysi
 
 The platform simulates four core datasets:
 
+```text
 | Dataset | Description |
 |---|---|
 | customers | customer master data |
@@ -136,6 +139,7 @@ The platform simulates four core datasets:
 | usage_events | product usage activity |
 | compute_consumption | compute and storage consumption |
 
+```
 ---
 
 ## Planned Gold-Level Business Outputs
@@ -154,6 +158,8 @@ The project will generate analytics tables for:
 
 The platform will simulate several business-oriented SaaS metrics:
 
+```text
+
 | KPI | Description |
 |---|---|
 | Adoption Score | Measures overall platform engagement |
@@ -162,6 +168,8 @@ The platform will simulate several business-oriented SaaS metrics:
 | Customer Health Score | Aggregates platform activity indicators |
 | Under-Utilization Risk | Detects low platform usage patterns |
 | Churn Risk Score | Identifies potentially declining customers |
+
+```
 
 These metrics are inspired by real-world platform analytics used by modern SaaS and AI companies.
 
@@ -179,6 +187,8 @@ These metrics are inspired by real-world platform analytics used by modern SaaS 
 ---
 
 ## Project Structure
+
+```text
 
 weyland-lakehouse/
 │
@@ -200,6 +210,8 @@ weyland-lakehouse/
 │
 ├── README.md
 └── .gitignore
+
+```
 
 ---
 
